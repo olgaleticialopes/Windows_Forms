@@ -1,0 +1,52 @@
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.AssemblyReference.cache
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.FEntrada.resources
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.FLoja.resources
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.Properties.Resources.resources
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.GenerateResource.cache
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.GeneratedMSBuildEditorConfig.editorconfig
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.AssemblyInfoInputs.cache
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.AssemblyInfo.cs
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.CoreCompileInputs.cache
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.exe
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.deps.json
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.runtimeconfig.json
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.runtimeconfig.dev.json
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.dll
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\ref\estudoCasoLojaInfo.dll
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.pdb
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.dll
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\ref\estudoCasoLojaInfo.dll
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.pdb
+G:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.genruntimeconfig.cache
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.exe
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.deps.json
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.runtimeconfig.json
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.runtimeconfig.dev.json
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.dll
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\ref\estudoCasoLojaInfo.dll
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\bin\Debug\net5.0-windows\estudoCasoLojaInfo.pdb
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.AssemblyReference.cache
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.FEntrada.resources
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.FLoja.resources
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.Properties.Resources.resources
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.GenerateResource.cache
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.AssemblyInfoInputs.cache
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.AssemblyInfo.cs
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.CoreCompileInputs.cache
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.dll
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\ref\estudoCasoLojaInfo.dll
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.pdb
+E:\ETEC\DS I\Programação orientada a objetos\modeloProf\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.genruntimeconfig.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.AssemblyReference.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.FEntrada.resources
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.FLoja.resources
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.Properties.Resources.resources
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.GenerateResource.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.AssemblyInfoInputs.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.AssemblyInfo.cs
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.csproj.CoreCompileInputs.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.dll
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\ref\estudoCasoLojaInfo.dll
+C:\Users\olgal\OneDrive\Área de Trabalho\estudo de caso loja\estudoCasoLojaInfo\estudoCasoLojaInfo\obj\Debug\net5.0-windows\estudoCasoLojaInfo.pdb
