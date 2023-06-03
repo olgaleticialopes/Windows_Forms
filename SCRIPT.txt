@@ -1,0 +1,11 @@
+CREATE DATABASE EMPRESA;
+
+USE EMPRESA;
+
+CREATE TABLE TBDEPARTAMENTO(
+
+ID int not null primary key,
+NOMEDEP varchar(60),
+SIGLADEP varchar(4)
+
+);
