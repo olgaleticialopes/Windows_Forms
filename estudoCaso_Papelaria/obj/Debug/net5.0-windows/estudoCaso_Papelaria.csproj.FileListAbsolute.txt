@@ -1,0 +1,113 @@
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.exe
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.deps.json
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.json
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.dev.json
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Form1.resources
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Properties.Resources.resources
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.GenerateResource.cache
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfoInputs.cache
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfo.cs
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.CoreCompileInputs.cache
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+C:\Users\Instrutor\Desktop\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.genruntimeconfig.cache
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.exe
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.deps.json
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.json
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.dev.json
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Form1.resources
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Properties.Resources.resources
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.GenerateResource.cache
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfoInputs.cache
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfo.cs
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.CoreCompileInputs.cache
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.genruntimeconfig.cache
+E:\2023\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.AssemblyReference.cache
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.exe
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.deps.json
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.json
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.dev.json
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.AssemblyReference.cache
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Form1.resources
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Properties.Resources.resources
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.GenerateResource.cache
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfoInputs.cache
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfo.cs
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.CoreCompileInputs.cache
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+C:\Users\priar\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.genruntimeconfig.cache
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.exe
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.deps.json
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.json
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.dev.json
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.AssemblyReference.cache
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Form1.resources
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Properties.Resources.resources
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.GenerateResource.cache
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfoInputs.cache
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfo.cs
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.CoreCompileInputs.cache
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+E:\2023\DS I\EXEMPLOS_PROJ\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.genruntimeconfig.cache
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.exe
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.deps.json
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.json
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.dev.json
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.AssemblyReference.cache
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Form1.resources
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Properties.Resources.resources
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.GenerateResource.cache
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfoInputs.cache
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfo.cs
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.CoreCompileInputs.cache
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+E:\ETEC\DS I\Programação orientada a objetos\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.genruntimeconfig.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.exe
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.deps.json
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.json
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.runtimeconfig.dev.json
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\bin\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.AssemblyReference.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Form1.resources
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.Properties.Resources.resources
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.GenerateResource.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfoInputs.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.AssemblyInfo.cs
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.csproj.CoreCompileInputs.cache
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.dll
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\ref\estudoCaso_Papelaria.dll
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.pdb
+C:\Users\olgal\OneDrive\Área de Trabalho\estudoCaso_Papelaria\estudoCaso_Papelaria\obj\Debug\net5.0-windows\estudoCaso_Papelaria.genruntimeconfig.cache
